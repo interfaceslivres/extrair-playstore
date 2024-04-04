@@ -10,8 +10,8 @@ Para utilizar este software, você precisará ter Python instalado em sua máqui
 2. Abra um terminal e navegue até o diretório onde o arquivo do notebook foi salvo.
 3. Execute o seguinte comando para instalar as dependências necessárias:
 
-  ```bash
-  pip install google-play-scraper
+   ```python
+   pip install google-play-scraper
 
 ## Uso
 Para executar o script, siga estas etapas:
